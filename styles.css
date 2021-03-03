@@ -13,7 +13,7 @@ body {
 
   /*background image styles */
   background-image: linear-gradient(rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.3)),
-    url("ME.png"); /* background image + a transparent black overlay */
+    url("https://rawcdn.githack.com/Mtrilling/static-template/acc045dac9de41c8aa843ff5553dfff3a1cee0f3/ME"); /* background image + a transparent black overlay */
   background-size: cover; /* covers the full page */
   background-position: center center; /* positions image at center of screen */
   background-repeat: no-repeat; /* stops image from tiling/showing multiple versions */
