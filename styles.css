@@ -13,7 +13,7 @@ body {
 
   /*background image styles */
   background-image: linear-gradient(rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.3)),
-    url("Max.png"); /* background image + a transparent black overlay */
+    url("./Max.png"); /* background image + a transparent black overlay */
   background-size: cover; /* covers the full page */
   background-position: center center; /* positions image at center of screen */
   background-repeat: no-repeat; /* stops image from tiling/showing multiple versions */
